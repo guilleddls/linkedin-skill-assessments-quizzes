@@ -661,12 +661,11 @@ A,B,D
 B op C
 
 
-### Q83. Using Power BI service, you want to share a set of visualizations with your team so that they can, in turn, 
-share the content with others. To do this, what should you share?
-[] a tile
-[] todas
-[] a dasboard
-[] a report
+### Q83. Using Power BI service, you want to share a set of visualizations with your team so that they can, in turn, share the content with others. To do this, what should you share?
+- [ ] a tile
+- [x] todas
+- [ ] a dasboard
+- [ ] a report
 
 
 
