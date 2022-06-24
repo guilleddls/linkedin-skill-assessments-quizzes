@@ -420,7 +420,7 @@ D. They must have no duplicate data rows.
     D. Add a geographic filter to Country.
 
 - [ ] A, B, D
-- [ ] A, B, C, D
+- [x] A, B, C, D
 - [ ] A, B, C
 - [ ] A, B
 
@@ -439,7 +439,7 @@ D. They must have no duplicate data rows.
 #### Q55. How can you allow users to filter an entire report to display information for the last week, last two weeks, or last month?
 
 - [ ] Add a date field to the report filter area and set filtering to Relative date filtering.
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] Add a date field to the page filter area, set filtering to Relative date filtering and click Extend.
 - [ ] Add a slicer for a date field to the report. Click the upper right corner and select Relative.
 
@@ -528,7 +528,7 @@ D. They must have no duplicate data rows.
     A. A slicer makes it easier for users to filter
     B. Users should be able to see both filtered and nonfiltered values.
 
-- [ ] A and B
+- [x] A and B
 - [ ] B and C
 - [ ] A and C
 - [ ] There is no reason to use a slicer rather than a report-level filter.
@@ -543,7 +543,7 @@ D. They must have no duplicate data rows.
 #### Q68. In the Power BI service, filters are applied in what view?
 
 - [ ] Filter
-- [ ] Editing
+- [x] Editing
 - [ ] Reading
 - [ ] Query
 
@@ -552,11 +552,11 @@ D. They must have no duplicate data rows.
 - [ ] You cannot to an Access database from Power BI.
 - [ ] Click **Reports > Database > Connect** in Power BI Desktop
 - [ ] Click **Get Data > Database > Access Database > Connect** in Power BI Service
-- [ ] Click **Get Data > Database > Access Database > Connect** in Power BI Desktop
+- [x] Click **Get Data > Database > Access Database > Connect** in Power BI Desktop
 
 #### Q70. What can you use Power BI for?
 
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] to create visualizations
 - [ ] to model data
 - [ ] to generate reports
@@ -566,25 +566,25 @@ D. They must have no duplicate data rows.
 - [ ] to transform data
 - [ ] to add members to your team or group
 - [ ] to grant permission to view a specific table
-- [ ] to relate tables
+- [x] to relate tables
 
 #### Q72. What do you call a visualization that has the single purpose of filtering other visuals in the view?
 
 - [ ] waterfall
 - [ ] none of these answers
 - [ ] ArcGIS visual
-- [ ] slicer
+- [x] slicer
 
 #### Q73. To share a dashboard and your comments from a mobile device, \_ the dashboard.
 
 - [ ] comment and share
-- [ ] annotate and share
+- [x] annotate and share
 - [ ] publish
 - [ ] team share
 
 #### Q74. In the Power Query Editor, you have selected multiple columns. How do you set them all to the Whole Number data type?
 
-- [ ] Click **Data Type Any** and select **Whole Number**.
+- [x] Click **Data Type Any** and select **Whole Number**.
 - [ ] Select **Group By** and select **Whole Number**.
 - [ ] Right-click the primary key and select **Whole Number**.
 - [ ] Right-click any column and select **Format Data**
@@ -599,7 +599,7 @@ D. They must have no duplicate data rows.
 #### Q76. What are the first steps to connect to a data table on Wikipedia from Power BI Desktop?
 
 - [ ] **Get Data > OData feed > Web URL**
-- [ ] **Get Data > Web > Enter Web URL**
+- [x] **Get Data > Web > Enter Web URL**
 - [ ] **Get Data > Web Table > Enter Web URL**
 - [ ] **Get Data > Data Source > Enter Web URL**
 
@@ -619,7 +619,7 @@ D. They must have no duplicate data rows.
 
 #### Q79. Of the Power BI tools, only Power BI Desktop allows you to do what?
 
-- [ ] all of these answers.
+- [x] all of these answers.
 - [ ] Work offline.
 - [ ] Create data models.
 - [ ] Add DAX calculations.
@@ -632,7 +632,7 @@ D. They must have no duplicate data rows.
     D. Edit the M code created by the Power Query Editor.
 
 - [ ] A, B
-- [ ] A,B,C,D
+- [x] A,B,C,D
 - [ ] B,C,D
 - [ ] A,B,C
 
@@ -646,4 +646,4 @@ D. They must have no duplicate data rows.
 - [ ] A,B,C,D
 - [ ] A,B
 - [ ] B,C
-- [ ] A
+- [x] A
